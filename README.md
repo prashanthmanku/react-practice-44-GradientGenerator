@@ -1,3 +1,5 @@
+## LIVE LINK :- <a href='https://prashgradiengen.ccbp.tech/'> GRADIENT GENERATOR</A>
+
 In this project, let's build a **Gradient Generator** app by applying the concepts we have learned till now.
 
 ### Refer to the image below:
@@ -42,8 +44,8 @@ The app must have the following functionalities
 
 - The `GradientGenerator` component will consist `gradientDirectionsList`. It consists of a list of gradient directions objects with the following properties in each gradient directions object
 
-  |    Key      | Data Type |
-  | :--------:  | :-------: |
+  |     Key     | Data Type |
+  | :---------: | :-------: |
   | directionId |  String   |
   |    value    |  String   |
   | displayText |  string   |
